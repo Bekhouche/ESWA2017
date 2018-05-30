@@ -1,8 +1,9 @@
-# ESWA2017
-Pyramid Multi-Level Features for Facial Demographic Estimation
-- Age estimation
-- Gender Classification
-- Ethnicity classification
+# ESWA2017 : Pyramid Multi-Level Features for Facial Demographic Estimation
+a draft code for :
+- Demographic estimation [PAL]
+- Age estimation [FG-NET]
+- Gender Classification [FG-NET and PAL]
+- Ethnicity classification [PAL]
 
 ## Scientific Use
 
@@ -20,5 +21,14 @@ doi = "https://doi.org/10.1016/j.eswa.2017.03.030",
 url = "http://www.sciencedirect.com/science/article/pii/S0957417417301793",
 author = "SE. Bekhouche and A. Ouafi and F. Dornaika and A. Taleb-Ahmed and A. Hadid",
 keywords = "Demographic estimation, Classification, Age, Gender, Ethnicity"
+}
+```
+and this thesis:
+```latex
+@phdthesis{bekhouche2017facial,
+  title={Facial Soft Biometrics: Extracting demographic traits},
+  author={BEKHOUCHE, Salah Eddine},
+  year={2017},
+  school={Facult{\'e} des sciences et technologies}
 }
 ```
